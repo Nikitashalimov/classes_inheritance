@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ulq7o0c00y2jn7ho/branch/master?svg=true)](https://ci.appveyor.com/project/Nikitashalimov/classes-inheritance/branch/master)
+
 # Домашнее задание к лекции «Классы, наследование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
@@ -20,7 +22,7 @@
 
 ### Описание
 
-Реализуйте описанную иерархию классов: класс `Character` является родительским для всех остальных, 6 дочерних классов `Bowerman`, `Swordsman`, `Magician`, `Daemon`, `Undead`, `Zombie` от него наследуются, сами задавая свои характеристики.
+Реализуйте описанную иерархию классов: класс `Character` является родительским для всех остальных, 6 дочерних классов `Boweman`, `Swordsman`, `Magician`, `Daemon`, `Undead`, `Zombie` от него наследуются, сами задавая свои характеристики.
 
 Свойства, которые должны быть у объектов класса `Character`:
 1. `name` - имя
