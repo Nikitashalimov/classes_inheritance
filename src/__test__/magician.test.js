@@ -1,7 +1,7 @@
 import Magician from '../magician';
 
 test('проверка персонажа-мага', () => {
-  const unit1 = new Magician('маг', 'Magician');
+  const unit1 = new Magician('маг');
   const unit2 = {
     name: 'маг',
     type: 'Magician',

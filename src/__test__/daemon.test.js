@@ -1,7 +1,7 @@
 import Daemon from '../daemon';
 
 test('проверка персонажа-демона', () => {
-  const unit1 = new Daemon('демон', 'Daemon');
+  const unit1 = new Daemon('демон');
   const unit2 = {
     name: 'демон',
     type: 'Daemon',

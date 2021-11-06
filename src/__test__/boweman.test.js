@@ -1,7 +1,7 @@
 import Boweman from '../boweman';
 
 test('проверка персонажа-лучника', () => {
-  const unit1 = new Boweman('лучник', 'Boweman');
+  const unit1 = new Boweman('лучник');
   const unit2 = {
     name: 'лучник',
     type: 'Boweman',

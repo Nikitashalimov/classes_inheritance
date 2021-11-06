@@ -1,7 +1,7 @@
 import Undead from '../undead';
 
 test('проверка персонажа-нежить', () => {
-  const unit1 = new Undead('нежить', 'Undead');
+  const unit1 = new Undead('нежить');
   const unit2 = {
     name: 'нежить',
     type: 'Undead',
